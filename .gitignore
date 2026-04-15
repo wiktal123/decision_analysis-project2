@@ -1,0 +1,4 @@
+*.pdf
+/lab4
+/lab5
+/models/__pycache__

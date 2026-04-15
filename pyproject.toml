@@ -1,0 +1,21 @@
+[project]
+name = "decision-analysis-2"
+version = "0.1.0"
+description = "Decision analysis experiments with ANN-UTADIS"
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "torch",
+  "tqdm",
+  "xgboost>=3.2.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false
