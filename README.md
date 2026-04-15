@@ -1,4 +1,5 @@
 # Preference learning: Car Evaluation
+### Authors: Daniel Skalski 160261 and Wiktor Talarek 160225
 
 ## Dataset
 
